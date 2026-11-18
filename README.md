@@ -57,7 +57,15 @@ Visualizations include:
 - Average Monthly Charges by Churn Status
 
 The page also presents key business insights and recommendations.
+## Dashboard Preview
 
+### Page 1 – Customer Churn Overview
+
+![Customer Churn Overview](Customer%20Churn%20Overview.png)
+
+### Page 2 – Revenue & Customer Insights
+
+![Revenue & Customer Insights](Revenue%20%26%20Customer%20Insights.png)
 ## Key Business Insights
 
 - Month-to-month contracts have the highest number of churned customers.
