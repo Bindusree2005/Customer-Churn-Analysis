@@ -46,6 +46,8 @@ Visualizations include:
 - Churn Rate by Tenure Group
 - Customer Churn by Payment Method
 
+![Customer Churn Overview](Customer%20Churn%20Overview.png)
+
 ### Page 2 – Revenue & Customer Insights
 
 Focuses on customer distribution and monthly charges associated with churned customers.
@@ -57,13 +59,6 @@ Visualizations include:
 - Average Monthly Charges by Churn Status
 
 The page also presents key business insights and recommendations.
-## Dashboard Preview
-
-### Page 1 – Customer Churn Overview
-
-![Customer Churn Overview](Customer%20Churn%20Overview.png)
-
-### Page 2 – Revenue & Customer Insights
 
 ![Revenue & Customer Insights](Revenue%20%26%20Customer%20Insights.png)
 ## Key Business Insights
